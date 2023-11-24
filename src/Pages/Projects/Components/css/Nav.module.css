@@ -1,0 +1,12 @@
+/* Nav.css */
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    transition: border-color 0.3s; /* Add a transition for the border-color */
+  }
+  
+  a:hover {
+    border-bottom: 1px solid black; /* Add a black bottom border on hover */
+  }
+  
